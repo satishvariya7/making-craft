@@ -1,0 +1,4 @@
+export const Publishable_key =
+  'pk_test_51JwPLGHXlvrJBT2RLz2ab89uZjP2qo2UsXk7VirJHCMlDRn1geGWLMpRW8N1Yjz2u6olImZKw74fMssgQmi70HzP00YTutvKN4'
+export const Secret_key =
+  'sk_test_51JwPLGHXlvrJBT2R5o89B9ulLI9CBPhHynEou2bDiDH7XfEiVQIOa4iMrBjKetSn5fFtF28gbTWU2T61Kg84TZRi00wGtyqmKh'

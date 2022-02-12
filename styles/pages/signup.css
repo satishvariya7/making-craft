@@ -1,0 +1,35 @@
+.art-input-tagline{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color:#6B7280;
+    padding-left: 5px;
+}
+
+.ant-form-item-label{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #111827;
+}
+
+.ant-form-item{
+    margin-bottom: 0 !important;
+}
+
+.ant-input{
+    border-radius: 3px !important;
+}
+
+.heading{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 40px;
+    color: #111827;
+}
